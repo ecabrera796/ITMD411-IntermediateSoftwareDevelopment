@@ -1,0 +1,13 @@
+Data analytic results:
+
+Average income MALES: $27225.83
+Average income FEMALES: $28646.32
+
+Nm. of Females with a mortgage & savings acct: 71
+
+Inner city region males with a car & 1 child: 15
+Rural region males with a car & 1 child: 9
+Suburban region males with a car & 1 child: 3
+Town region males with a car & 1 child: 7
+2018/10/24 21:33:22 	 programmed by Eric Cabrera
+Total records in bank-detail.csv are 600

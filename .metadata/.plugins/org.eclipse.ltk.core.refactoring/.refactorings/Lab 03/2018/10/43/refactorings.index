@@ -1,0 +1,11 @@
+1540576158847	Rename local variable 'scanner'
+1540576747910	Rename local variable 'scanner'
+1540591301346	Delete element
+1540591528862	Rename local variable 'scanner'
+1540594288639	Rename type 'GenderComparator'
+1540594438863	Rename type 'RegionComparater'
+1540594580319	Rename method 'findMalesWithCarAndOneChild'
+1540594664455	Rename method 'findFemalesWithMortgageAndSavings'
+1540595239808	Rename field 'mFemaleRecords'
+1540595251416	Rename field 'mMaleRecords'
+1540595261591	Rename field 'mFileWriter'
